@@ -1,0 +1,23 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Hyatt Regency",
+        "description": "The location of the 2015 FOSS4G North America Conference",
+        "address": "1333 Old Bayshore Highway, Burlingame, CA 94010",
+        "marker-symbol": "star",
+        "marker-size": "large",
+        "marker-color": "#d85054"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.36527,
+          37.59361
+        ]
+      }
+    }
+  ]
+}
