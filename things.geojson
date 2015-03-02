@@ -25,22 +25,6 @@
         "marker-color": "#7e7e7e",
         "marker-size": "medium",
         "marker-symbol": "rail-metro",
-        "title": "Caltrain - Broadway"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -122.36186027526855,
-          37.587251587629254
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "marker-color": "#7e7e7e",
-        "marker-size": "medium",
-        "marker-symbol": "rail-metro",
         "title": "Caltrain - Burlingame"
       },
       "geometry": {
