@@ -52,6 +52,24 @@
           37.775724
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Bloodhound",
+        "description": "Another watering hole we should visit.",
+        "address": "1145 Folsom St, San Francisco, CA 94103"
+        "marker-color": "#005cc2",
+        "marker-size": "medium",
+        "marker-symbol": "bar",
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.40877479314803,
+          37.775803045522146
+        ]
+      }
     }
   ]
 }
