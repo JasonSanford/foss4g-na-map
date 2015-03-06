@@ -38,6 +38,7 @@
     {
       "type": "Feature",
       "properties": {
+        "title": "City Beer",
         "description": "A beer store/tasting room we have to check out.",
         "address": "1168 Folsom St #101, San Francisco, CA 94103",
         "marker-color": "#005cc2",
