@@ -38,6 +38,22 @@
     {
       "type": "Feature",
       "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "rail-metro",
+        "title": "Caltrain - San Francisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.39482462406158,
+          37.77657898157042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
         "title": "City Beer",
         "description": "A beer store/tasting room we have to check out.",
         "address": "1168 Folsom St #101, San Francisco, CA 94103",
