@@ -86,6 +86,60 @@
           37.775803045522146
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Steelhead Brewery",
+        "description": "Monday night dinner: IoT",
+        "address": "333 California Dr Burlingame, CA 94010",
+        "marker-color": "#BE9A6B",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.346194,
+          37.580334 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "Kabul Afghan Cuisine",
+        "description": "Monday night dinner: Modeling",
+        "address": "1101 Burlingame Ave Burlingame, CA 94010",
+        "marker-color": "#BE9A6B",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+	      -122.345379,
+          37.579484 
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "La Corneta Taqueria",
+        "description": "Monday night dinner: Geospatial Innovation",
+        "address": "1123 Burlingame Ave Burlingame, CA 94010",
+        "marker-color": "#BE9A6B",
+        "marker-size": "medium",
+        "marker-symbol": "restaurant"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.345771,
+          37.579183 
+        ]
+      }
     }
   ]
 }
